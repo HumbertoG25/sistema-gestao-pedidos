@@ -1,0 +1,7 @@
+com\Humberto\Gestao_Pedidos\GlobalExceptionHandler.class
+com\Humberto\Gestao_Pedidos\PedidoController.class
+com\Humberto\Gestao_Pedidos\ErroResposta.class
+com\Humberto\Gestao_Pedidos\PedidoRepository.class
+com\Humberto\Gestao_Pedidos\PedidoService.class
+com\Humberto\Gestao_Pedidos\Pedido.class
+com\Humberto\Gestao_Pedidos\GestaoPedidosApplication.class
